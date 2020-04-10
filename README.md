@@ -13,16 +13,19 @@ _This repo is a collection of the work I will be completing for the course liste
 ### Course Outline:
 
 Section 1: Introduction &check; <br>
-Section 2: <br>
-Section 3: <br>
-Section 4: <br>
-Section 5: <br>
-Section 6: <br>
-Section 7: <br>
-Section 8: <br>
-Section 9: <br>
-Section 10: <br>
-Section 11: <br>
-Section 12: <br>
-Section 13: <br>
-Section 14: <br>
+Section 2: The MERN Stack - Theory &check; <br>
+Section 3: Planning the App <br>
+Section 4: React.js - A Refresher <br>
+Section 5: React.js - Building the Frontend <br>
+Section 6: Node.js & Express.js - A Refresher <br>
+Section 7: Node.js & Express.js - Building our REST API <br>
+Section 8: Working with MongoDB & Mongoose - A
+Refresher <br>
+Section 9: Connecting the Backend to the Database -
+MongoDB & Mongoose <br>
+Section 10: Connecting the React.js Frontend to the
+Backend <br>
+Section 11: Adding File Upload <br>
+Section 12: Adding Authentication <br>
+Section 13: Application Deployment <br>
+Section 14: Roundup & Next Steps <br>
