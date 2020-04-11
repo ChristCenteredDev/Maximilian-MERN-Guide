@@ -15,7 +15,7 @@ _This repo is a collection of the work I will be completing for the course liste
 Section 1: Introduction &check; <br>
 Section 2: The MERN Stack - Theory &check; <br>
 Section 3: Planning the App &check; <br>
-Section 4: React.js - A Refresher <br>
+Section 4: React.js - A Refresher &check; <br>
 Section 5: React.js - Building the Frontend <br>
 Section 6: Node.js & Express.js - A Refresher <br>
 Section 7: Node.js & Express.js - Building our REST API <br>
